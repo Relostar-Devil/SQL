@@ -11,12 +11,20 @@
 
  
  The 3 key datasets for this case study:
- a. FactTable: The Fact Table has 14 columns mentioned below and 4200 rows. Date, ProductID, Profit, Sales, Margin, COGS, Total Expenses, Marketing, Inventory, Budget Profit, Budget COGS, Budget Margin, Budget
+
+ 
+ a. *FactTable:* The Fact Table has 14 columns mentioned below and 4200 rows. Date, ProductID, Profit, Sales, Margin, COGS, Total Expenses, Marketing, Inventory, Budget Profit, Budget COGS, Budget Margin, Budget
  Sales, and Area Code
+
+ 
  Note: COGS stands for Cost of Goods Sold
- b. ProductTable: The ProductTable has four columns named Product Type, Product, ProductID, and Type. It has 13 rows which can be broken down
+
+ 
+ b. *ProductTable:* The ProductTable has four columns named Product Type, Product, ProductID, and Type. It has 13 rows which can be broken down
  into further details to retrieve the information mentioned in the FactTable.
- c. LocationTable: Finaly, the LocationTable has 156 rows and follows a similar approach to ProductTable. It has four columns named Area Code, State, Market, and Market Size.
+
+ 
+ c. *LocationTable:* Finaly, the LocationTable has 156 rows and follows a similar approach to ProductTable. It has four columns named Area Code, State, Market, and Market Size.
 
  
  # Tasks to be performed:
