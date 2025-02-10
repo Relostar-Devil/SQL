@@ -1,13 +1,12 @@
 Create the following table: 
  
  
-|LOCATION |
-|----|----|
-|Location_ID(PK) | City |
-|122 | New York |
-|123 | Dallas |
-|124 | Chicago |
-|167 | Boston |
+| Location_ID (PK) | City      |
+|------------------|----------|
+| 122             | New York  |
+| 123             | Dallas    |
+| 124             | Chicago   |
+| 167             | Boston    |
  
  
 Department_Id(PK) Name Location_Id(FK) 
