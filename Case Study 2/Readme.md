@@ -1,4 +1,4 @@
-# **Create the following table: **
+# **Create the following table:**
  
 *LOCATION* 
 | Location_ID (PK) | City      |
@@ -38,7 +38,7 @@
 | 7521        | Wark      | Cynthia    | D           | 670         | 22-Feb-85   | 1250   | 50   | 30                  |
 
  
-# **Simple Queries: **
+# **Simple Queries:**
 
 
 1. List all the employee details. 
@@ -50,7 +50,7 @@
 7. List out the annual salary of the employees with their names only. 
 
 
-# ** WHERE Condition: **
+# **WHERE Condition:**
 
 
 1. List the details about "Smith". 
@@ -65,7 +65,7 @@
 10. List out the employees who are not receiving commission.
 
 
-# **ORDER BY Clause: **
+# **ORDER BY Clause:**
 
 
 1. List out the Employee ID and Last Name in ascending order based on the Employee ID. 
@@ -74,7 +74,7 @@
 4. List out the employee details according to their Last Name in ascending order and then Department ID in descending order.
 
 
-# **GROUP BY and HAVING Clause: **
+# **GROUP BY and HAVING Clause:**
 
 
 1. List out the department wise maximum salary, minimum salary and average salary of the employees. 
@@ -90,7 +90,7 @@
 11. Which is the Department ID having greater than or equal to 3 employees joining in April 1985?
 
 
-# **Joins: **
+# **Joins:**
 
 
 1. List out employees with their department names. 
@@ -103,7 +103,7 @@
 8. Display all employees in sales or operation departments.
 
 
-# **CONDITIONAL STATEMENT **
+# **CONDITIONAL STATEMENT**
 
 
 1. Display the employee details with salary grades. Use conditional statement to create a grade column. 
